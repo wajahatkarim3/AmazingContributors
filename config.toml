@@ -46,12 +46,12 @@ googleAnalytics = ""
   url = "portfolio/"
   home = true
 
-  [[params.navlinks]]
-  name = "About Site"
-  url = "about/"
+  # [[params.navlinks]]
+  # name = "About Site"
+  # url = "about/"
 
   [[params.navlinks]]
-  name = "Get in touch"
+  name = "About The Site"
   url = "contact/"
 
   [params.social]

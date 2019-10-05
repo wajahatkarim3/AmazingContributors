@@ -1,10 +1,9 @@
 +++
-date = "2016-11-06T13:00:25+05:30"
-title = "Get in touch"
+date = "2019-06-10T21:05:33+05:30"
+title = "About The Site"
 +++
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+This website is dedicated to all the new and first-time contributors in Hacktoberfest 2019 through the unofficial [**wajahatkarim3/Hacktoberfest2019**](https://github.com/wajahatkarim3/Hacktoberfest2019) repository on Github.
 
-Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to. Desire so better am cannot he up before points. Remember mistaken opinions it pleasure of debating. Court front maids forty if aware their at. Chicken use are pressed removed.
-
-Able an hope of body. Any nay shyness article matters own removal nothing his forming. Gay own additions education satisfied the perpetual. If he cause manor happy. Without farther she exposed saw man led. Along on happy could cease green oh. 
+#### DISCLAIMER
+> This wesbite is not affiliated to [**Hacktoberfest**](https://hacktoberfest.digitalocean.com/) or its sponsors [**Digital Ocean**](https://digitalocean.com/) and [**DEV**](http://dev.to) in any official or unofficial way. This is a totally fan-made website to appreciate the junior and first-time contributors.
