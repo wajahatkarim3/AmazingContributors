@@ -1,0 +1,62 @@
+baseurl = "https://wajahatkarim3.github.io/AmazingContributors/"
+title = "Amazing Contributors"
+theme = "portfolio"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "violet"
+  description = "This website is dedicated to all the new and first-time contributors in Hacktoberfest 2019 through the unofficial <a href=\"https://github.com/wajahatkarim3/Hacktoberfest2019\" target=\"_blank\"><b>wajahatkarim3/Hacktoberfest2019</b></a> repository on Github."
+  copyright = "&copy;2019 <a href=\"https://wajahatkarim.com\" target=\"_blank\">Wajahat Karim</a>"
+  sidebarAbout = [
+    "This website is dedicated to all the new and first-time contributors in Hacktoberfest 2019 through the unofficial <a href=\"https://github.com/wajahatkarim3/Hacktoberfest2019\" target=\"_blank\"><b>wajahatkarim3/Hacktoberfest2019</b></a> repository on Github.",
+    "<b>Disclaimer:</b> This wesbite is not affiliated to <a href=\"https://hacktoberfest.digitalocean.com/\" target=\"_blank\"><b>Hacktoberfest</b></a> or its sponsors <a href=\"https://digitalocean.com/\" target=\"_blank\"><b>Digital Ocean</b></a> and <a href=\"http://dev.to\" target=\"_blank\"><b>DEV</b></a> in any official or unofficial way. This is a totally fan-made website to appreciate the junior and first-time contributors."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "you@yoursite.com"
+
+    # Optional Matomo analytics (formerly piwik)
+      # [params.analytics.matomo]
+      #  URL = "https://stats.example.com"
+      #  ID = "42"
+      #  # Track all subdomains with "*.example.com" (Optional)
+      #  domain = "www.example.com"
+      #  # Optional integrity check hash
+      #  hash = ""
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Contributors"
+  url = "portfolio/"
+  home = true
+
+  # [[params.navlinks]]
+  # name = "About Site"
+  # url = "about/"
+
+  [[params.navlinks]]
+  name = "About The Site"
+  url = "contact/"
+
+  [params.social]
+  # facebook      = "full page or profile url in facebook"
+  # googleplus    = "full profile url in googleplus"
+  email         = "wajahatkarim3@gmail.com"
+  twitter       = "http://twitter.com/WajahatKarim"
+  github        = "http://github.com/wajahatkarim3/AmazingContrubutors"
