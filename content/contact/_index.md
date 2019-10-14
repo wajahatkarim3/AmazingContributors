@@ -6,4 +6,4 @@ title = "About The Site"
 This website is dedicated to all the new and first-time contributors in Hacktoberfest 2019 through the unofficial [**wajahatkarim3/Hacktoberfest2019**](https://github.com/wajahatkarim3/Hacktoberfest2019) repository on Github.
 
 #### DISCLAIMER
-> This wesbite is not affiliated to [**Hacktoberfest**](https://hacktoberfest.digitalocean.com/) or its sponsors [**Digital Ocean**](https://digitalocean.com/) and [**DEV**](http://dev.to) in any official or unofficial way. This is a totally fan-made website to appreciate the junior and first-time contributors.
+> This wesbite is not affiliated to [**Hacktoberfest**](https://hacktoberfest.digitalocean.com/) or its sponsors [**Digital Ocean**](https://digitalocean.com/) and [**DEV**](http://dev.to) in any official or unofficial way. This is a totally fan-made website to appreciate the junior and first-time contributors for motivation in younsters.
